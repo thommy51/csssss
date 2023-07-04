@@ -1,5 +1,5 @@
 .bpw-layout {
-  height: 500px;
-  z-index: 1000;
+  height: 500px !important;
+  z-index: 1000 !important;
 }
 
